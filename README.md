@@ -1,6 +1,6 @@
 ## Curso Aplicações em meteorologia usando Python (2022)
 
-Curso de Python elaborado por Rafael Cesario de Abreu, Natália Machado Crespo com colaboração das Profas. Rita Yuri Ynoue, Marcia Akemi Yamasoe do Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP) para alunos da graduação e pós graduação de Meteorologia indicando algumas aplicações da linguagem de programação na análise de dados de ciências atmosféricas. São cinco aulas contendo:
+Curso de Python elaborado por Rafael Cesario de Abreu, Natália Machado Crespo com colaboração das Profas. Rita Yuri Ynoue, Marcia Akemi Yamasoe do Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG-USP) para alunos da graduação e pós-graduação de Meteorologia, indicando algumas aplicações da linguagem de programação na análise de dados de Ciências Atmosféricas. São cinco aulas contendo:
 
 - [Aula 1](aulas/Aula01a-Basico.ipynb)
     - Básico da linguagem: Para que serve; para que é usada. Comandos básicos, como importar pacotes
@@ -37,7 +37,7 @@ Se quiser tirar dúvidas ou dar sugestões temos um grupo no discord aberto para
 
 **Dados externos**: Os dados que são utilizados nessas aulas podem ser obtidos a partir do [link do Google Drive](https://drive.google.com/drive/folders/1hmcwi8subJuCai1fo3DwR3dx7nKg-JPQ?usp=sharing). Para rodar os notebooks com sucesso é importante atualizar os caminhos conforme cada notebook
  
-**Execução dos notebooks**: Os notebooks foram escritos para serem rodados dentro do Google Colaboratory, caso você não vá utilizar esse recurso e prefere rodar localmente no seu ambiente linux ou windows é importante remover as células que contém:
+**Execução dos notebooks**: Os notebooks foram escritos para serem rodados dentro do Google Colaboratory. Caso você não vá utilizar esse recurso e prefere rodar localmente no seu ambiente linux ou windows, é importante remover as células que contêm:
 
 ```python
 from google.colab import drive
